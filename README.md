@@ -1,2 +1,2 @@
 # homebrew-tap
-Homebrew formulae for kylekanderson projects
+Homebrew formulae and casks for lancodev projects
