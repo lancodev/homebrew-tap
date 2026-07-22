@@ -1,6 +1,6 @@
 cask "ray" do
   version "3.2.10"
-  sha256 "1f7b3b170fb16da009732193b41d738f077e3f54e5528d7e621bf4c8abbfef29"
+  sha256 "8965569f043c36bd7e12decfbb12db1511962b4e7edf423d05599d65c5ccc25a"
 
   url "https://ray-app.s3.eu-west-1.amazonaws.com/ray-app-updates-v3/stable/ray-#{version}-latest-darwin-arm64.dmg"
   name "Ray"
